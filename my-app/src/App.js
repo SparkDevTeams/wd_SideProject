@@ -6,6 +6,7 @@ class App extends Component {
     return (
       <div className="App">
         <h1>Pac-man</h1>
+        <h2>(But it should really be Mortal Kombat... :-/</h2>
       </div>
     );
   }
